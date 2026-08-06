@@ -20,7 +20,7 @@ exibir_menu() {
     echo -e "\e[1;34m"
     echo " [01] ZPhisher               [02] SEToolkit"
     echo " [03] Metasploit             [04] IP Info"
-    echo " [05] Sair"
+    echo " [05] ALHACK                 [06] Sair"
     echo -e "\e[0m"
     echo "-----------------------------------------------------"
 }
@@ -69,7 +69,25 @@ while true; do
             read
             ;;
 
-        5|05)
+
+                  5|05)
+            echo -e "\n\e[1;33m[*] Verificando ALHacking...\e[0m"
+            if [ ! -d "ALHacking" ]; then
+                echo -e "\e[1;31m[!] ALHacking não encontrado. Instalando seguindo o tutorial...\e[0m"
+                # Passo 1 da imagem: Clona o repositório oficial da ferramenta
+                git clone https://github.com/4lbH4cker/ALHacking
+            fi
+            echo -e "\n\e[1;32m[+] Iniciando ALHacking...\e[0m"
+            # Passo 2 e 3 da imagem: Entra na pasta e roda o script via bash
+            cd ALHacking
+            bash alhack.sh
+            cd ..
+            echo -e "\nPressione [ENTER] para voltar ao menu."
+            read
+            ;;
+
+
+        6|06)
             echo -e "\nSaindo do Engsocial Tool... Até logo!"
             exit 0
             ;;
@@ -80,3 +98,4 @@ while true; do
             ;;
     esac
 done
+
