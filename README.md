@@ -10,7 +10,7 @@ Abra o terminal do seu Kali Linux e execute a sequência de comandos abaixo:
 
 ```bash
 # 1. Clone o seu repositório oficial
-git clone https://github.com
+git clone https://github.com/davsemj/engsocial-tool.git
 
 # 2. Acesse a pasta do projeto
 cd engsocial-tool
