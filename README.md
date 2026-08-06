@@ -3,7 +3,7 @@
 Um toolkit interativo desenvolvido em Bash para automatizar e agilizar a execução de ferramentas essenciais para o estudo de Engenharia Social e testes de penetração diretamente no **Kali Linux**.
 
 
-> ⚠️ **AVISO LEGAL:** Este toolkit foi desenvolvido estritamente para fins educacionais e acadêmicos. **Lembrando que esta ferramenta serve exclusivamente para testes éticos em laboratórios permitidos.** O uso indevido dessas ferramentas contra alvos sem autorização prévia é ilegal e de total responsabilidade do usuário.
+> ⚠️ **AVISO LEGAL:** Este toolkit foi desenvolvido estritamente para fins educacionais e acadêmicos. **Exclusivamente para testes éticos em laboratórios permitidos.** O uso indevido dessas ferramentas contra alvos sem autorização prévia é ilegal e de total responsabilidade do usuário.
 
 ---
 
