@@ -30,7 +30,8 @@ sudo ./menu.sh
 * **02 - SEToolkit**: Acesso rápido ao Social-Engineer Toolkit nativo do Kali Linux para engenharia social avançada.
 * **03 - Metasploit**: Inicialização direta do console do Metasploit Framework (`msfconsole`).
 * **04 - IP Info**: Consulta rápida baseada em API para obter dados geográficos e provedor de qualquer IP público.
-* **05 - Sair**: Encerramento seguro do script retornando ao terminal padrão do sistema.
+* **05 - ALHACK**: Um tool cheio de ferramentas usadas para hacking.
+* **06 - Sair**: Encerramento seguro do script retornando ao terminal padrão do sistema.
 
 ---
 
