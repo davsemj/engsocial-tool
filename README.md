@@ -1,6 +1,6 @@
 # 🛠️ ENGSOCIAL TOOL v1.0
 
-Um toolkit interativo desenvolvido em Bash para centralizar, automatizar e agilizar a execução de ferramentas essenciais de Engenharia Social e testes de invasão diretamente no **Kali Linux**.
+Um toolkit interativo desenvolvido em Bash para automatizar e agilizar a execução de ferramentas essenciais para o estudo de Engenharia Social e testes de penetração diretamente no **Kali Linux**.
 
 ---
 
